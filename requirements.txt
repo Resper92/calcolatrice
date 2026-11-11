@@ -1,0 +1,2 @@
+# Dipendenze del progetto
+pygame-ce>=2.5.0
